@@ -2,6 +2,9 @@
 
 Welcome to the Weather Webpage project! This is a simple web application that displays the weather of a specified city using an external API.
 
+## Live Demo
+Check out the live demo of the project here - https://mukundbansal10.github.io/Weather_web/
+
 ## Features
 
 - Get current weather information for any city.
