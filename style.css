@@ -20,7 +20,7 @@ html{
     font-family: 'Poppins', sans-serif;
 }
 body {
-    background: url(images/white-cloud-blue-sky.jpg);
+    background: url(white-cloud-blue-sky.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
